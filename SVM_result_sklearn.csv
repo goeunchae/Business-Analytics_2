@@ -1,0 +1,5 @@
+kernel,acc
+linear,0.2936
+poly,0.2936
+rbf,0.2936
+sigmoid,0.2936
